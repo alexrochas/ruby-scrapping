@@ -7,6 +7,10 @@ Highly based on this reddit [post](https://www.reddit.com/r/ruby/comments/9zck2o
 
 Improve how manipulate data and html with [Watir](http://watir.com/) and [Nokogiri](http://www.nokogiri.org/).
 
+Be less intrusive..
+
+![result](result.jpeg)
+
 ## Meta
 
 Alex Rocha - [about.me](http://about.me/alex.rochas)
